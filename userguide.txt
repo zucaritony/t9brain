@@ -1,0 +1,13 @@
+so far only tested on Hackable:1
+
+version 0.01
+------------
+
+Setting up:
+First, you need to make sure that T9Brain is the keyboard that
+you're using. Somewhere in the Utilities menu there should be an
+option to change the keyboard. Choose "T9". Now, all you have to
+do to bring it up is a short press on the AUX button.
+
+Using:
+
